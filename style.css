@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f1ff;
+    margin: 0;
+    padding: 40px;
+}
+
+h1 {
+    color: #5b3cc4;
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+input {
+    padding: 10px;
+    margin-right: 5px;
+    border: 1px solid #aaa;
+    border-radius: 6px;
+}
+
+button {
+    padding: 10px 16px;
+    background-color: #5b3cc4;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #432b9c;
+}
+
+#taskList {
+    margin-top: 25px;
+}
+
+#taskList p {
+    background-color: white;
+    padding: 12px;
+    width: 400px;
+    border-radius: 8px;
+}
